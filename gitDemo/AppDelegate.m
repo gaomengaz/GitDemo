@@ -19,6 +19,8 @@
     
     
     NSLog(@"123");
+    NSLog(@"删除空行并添加一行");
+    
     return YES;
 }
 
